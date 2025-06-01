@@ -1,3 +1,5 @@
 hello, it's file1 here
 
 file1 used to represent fruit
+
+file1 add one line
