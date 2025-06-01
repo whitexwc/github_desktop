@@ -1,0 +1,3 @@
+hello, it's file2 here
+
+file2 used to represent animal.
