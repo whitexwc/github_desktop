@@ -2,5 +2,5 @@ hello, it's file3 here
 
 file3 used to be represent test case
 part1 commit
-
+part2 commit
 part3 commit
