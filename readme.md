@@ -1,3 +1,3 @@
 # empty file
 
-test-Use
+learn idea use, 一点小小的震撼
