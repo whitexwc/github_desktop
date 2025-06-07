@@ -7,3 +7,5 @@ part3 commit
 mimic push from other user
 
 local commit merge
+
+其他用户先变更，使用rebase模式merge
